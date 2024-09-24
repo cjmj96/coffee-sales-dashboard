@@ -19,10 +19,9 @@ The project is based on a simulated dataset where sales transactions of the coff
 
 - **Date & Time:** Record of every sale's date and time
 - **Product:** Name of the coffee, beverage, snack, bakery, etc. that was sold
-- **Category:** Product group (e.g., Coffee, Tea, Pastry)
+- **Category:** Product group
 - **Quantity:** Number of items sold
 - **Price:** Per article price
-- **Payment Method:** Cash, Credit Card, etc.
 
 **Dashboard Features:**
 
@@ -40,10 +39,6 @@ The main activities in the interactive dashboard are as follows:
 - Top-selling products by revenue and quantity
 - Product category piece
 - Each product's sales are a part of the totality of revenue
-
-**Customer Insights:**
-
-- Payment method preferences
 
 **Interactive Filters:**
 
